@@ -1,0 +1,1 @@
+For Stratification purpose via smartpca.pl
